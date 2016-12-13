@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\bin\Debug\BuzzFeed.exe.config
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\bin\Debug\BuzzFeed.exe
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\bin\Debug\BuzzFeed.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\obj\Debug\BuzzFeed.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\obj\Debug\BuzzFeed.exe
+c:\users\amanda\documents\visual studio 2015\Projects\BuzzFeed\BuzzFeed\obj\Debug\BuzzFeed.pdb
